@@ -1,6 +1,3 @@
-Here is a `README.md` file for your project:
-
-```markdown
 # Telegram Password Generator Bot
 
 ## Overview
@@ -22,7 +19,7 @@ This project is a Telegram bot that generates secure passwords based on a given 
 
 ## Project Structure
 
-```
+
 src/
 ├── main/
 │   ├── java/
